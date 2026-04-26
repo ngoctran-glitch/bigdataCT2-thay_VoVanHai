@@ -1,0 +1,6 @@
+AN	2
+APPLE	2
+HAVE	1
+I	1
+IS	1
+THIS	1
